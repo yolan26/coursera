@@ -26,3 +26,18 @@ Disclaimer on : I keep it on Github for personal use, namely for self-study. not
 ## 4.) Structuring Machine Learning Projects
 * Week 1
 * Week 2
+
+## 5.) Google IT Automation with Python
+a.) Crash Course on Python
+b.) Using Python to Interact with the Operating System
+c.) Introduction to Git and GitHub
+d.) Troubleshooting and Debugging Techniques
+e.) Configuration Management and the Cloud
+f.) Automating Real-World Tasks with Python
+
+## 6.) Google IT Support
+a.) Technical Support Fundamentals
+b.) The Bits and Bytes of Computer Networking
+c.) Operating Systems and You: Becoming a Power User
+d.) System Administration and IT Infrastructure Services
+e.) IT Security: Defense against the digital dark arts
